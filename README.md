@@ -19,17 +19,17 @@ Below are some reports completed during CISC226 regarding the project.
 - [A4: Final Reflection (PDF)](reports/a4_final_reflection.pdf)
 
 ## About the Game
-Below is a summary quickly pieced together from existing material:
+*Below is a summary quickly pieced together from existing material:*
 
-	Dungeon Offence is a tower-defense game where you, the player, are also a character on the map, where you can interact with the towers and waves in real-time.
+Dungeon Offence is a tower-defence game where you, the player, are also a character on the map, where you can interact with the towers and waves in real-time.
 
-	You can run around in a dungeon like in a dungeon crawler, but you are also able to place defense towers within the dungeon. Towers require maintenance and reloading, whereas engaging yourself is more risky. Your goal is to stop enemies from traversing through a series of rooms and reaching the end.
+You can run around in a dungeon like in a dungeon crawler, but you are also able to place defence towers within the dungeon. Towers require maintenance and reloading, whereas engaging yourself is more risky. Your goal is to stop enemies from traversing through a series of rooms and reaching the end.
 
-	If you take too much damage, or let too many enemies get to the end, you lose a life. After losing all lives, the game ends and the level restarts.
+If you take too much damage, or let too many enemies get to the end, you lose a life. After losing all lives, the game ends and the level restarts.
 
-	Enemies appear in waves, with each level having enemies appearing at displayed intervals. These enemies drop resources which you can then use to make new towers, repair existing towers, or craft better gear for yourself.
+Enemies appear in waves, with each level having enemies appearing at displayed intervals. These enemies drop resources which you can then use to make new towers, repair existing towers, or craft better gear for yourself.
 
-	After all waves have been defeated, you may move on to the next level. Stronger gear and towers appear as the player progresses.
+After all waves have been defeated, you may move on to the next level. Stronger gear and towers appear as the player progresses.
 
 ## Screenshots
 
