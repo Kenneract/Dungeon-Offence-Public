@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2554238750016613501
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1644794994503510160}
+  - component: {fileID: 1094044173063238205}
+  m_Layer: 0
+  m_Name: ItemHolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1644794994503510160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2554238750016613501}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1094044173063238205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2554238750016613501}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d0fb48ec88514d4fbd5ae9cc8dc4e6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemPrefabs:
+  - {fileID: 4234001056767136929, guid: 74a1c5e4e90ec4a46bdc56bf8f8a19d4, type: 3}
+  - {fileID: 9221194959499061948, guid: ad711408dc0df2b459d329a7792a4edc, type: 3}
+  - {fileID: 5423844177871975450, guid: 9727bce81a2bc81408ebea712ec8f0d3, type: 3}
+  - {fileID: 5443999428910708616, guid: f7f80eb6bba3ab74580d61a788f2621a, type: 3}
+  - {fileID: 2626819205489346871, guid: b803885b4a880c445a155ae10c4222cc, type: 3}
+  - {fileID: 8470125918885396914, guid: ac41ce50e992d3f40a8828d9ebc5c87f, type: 3}
+  - {fileID: 9082814345714877937, guid: d4544aa4ab6b1a140a7f00fb483469ce, type: 3}
+  - {fileID: 1086261024176999658, guid: 8b84486670833db48ba95ca367b6aefa, type: 3}
+  - {fileID: 6323856358688563057, guid: 6d5ed21f7f7256d4a8fd1fc7e509120a, type: 3}
+  - {fileID: 5938600644609768288, guid: 146ade45c86d3c14a84405c3045abf79, type: 3}
+  - {fileID: 3686431262629147239, guid: c7256b99afd87794c90960bc5f62567d, type: 3}
+  - {fileID: 7760490933938016244, guid: 83d5513e56781b44c9418ba47668bbd8, type: 3}
+  newPrefabs: []
